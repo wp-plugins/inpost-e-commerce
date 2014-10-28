@@ -4,7 +4,7 @@ Donate link: http://inpost.co.uk
 Tags: e-commerce, shop, parcel, lockers, shipping
 Requires at least: 3.7
 Tested up to: 3.9
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,4 +64,8 @@ InPost parcel delivery.
 = 1.0 =
 
 Created this initial version.
+
+= 1.1 =
+
+Changed the cURL options to allow using https for REST API calls.
 
