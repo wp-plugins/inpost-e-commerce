@@ -22,6 +22,8 @@ Inpost delivery to printing out the package labels it's all there.
 
 * WordPress 3.8 or greater
 * WP eCommerce 3.8 or greater
+* PHP 5.0 or greater
+* PHP cURL
 
 1. Upload the folder 'inpost-wp-e-commerce' to the '/wp-content/plugins/' directory
 1. You *must* also create the directory 'inpost-wp-e-commerce-pdf'. This must exist in the plugins directory
