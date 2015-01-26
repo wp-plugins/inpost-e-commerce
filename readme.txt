@@ -67,3 +67,8 @@ InPost parcel delivery.
 
 Created this initial version.
 
+= 1.2 =
+
+The installer is not working. I have tried to resolve this by moving the PDF
+folder.
+

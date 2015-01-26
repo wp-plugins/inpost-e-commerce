@@ -3,7 +3,7 @@
  * Plugin Name: InPost WP e-commerce Plugin
  * Plugin URI: http://www.inpost.co.uk
  * Description: This plugin allows shoppers to pick an InPost location for their parcel. Requires WordPress e-Commerce.
- * Version: 1.1
+ * Version: 1.2
  * Author: InPost, David Arthur
  * Author URI: http://www.inpost.co.uk
  * License: GPL2
